@@ -19,6 +19,12 @@ The project’s idea is to list trending projects from Github, tap on one of the
 - GithubTrendingAPI - GitHub trending scraper
 - MarkdownView - Advanced .md viewer
 
+https://user-images.githubusercontent.com/6025333/198837755-f35e4db8-ab95-4889-9625-06331c52f87b.MOV
+
+https://user-images.githubusercontent.com/6025333/198837795-76d5cd8c-9bc4-4dd9-b0d7-d657aeda77b6.MOV
+
+https://user-images.githubusercontent.com/6025333/198837805-9a9a3459-7fd6-4700-aff6-c1a96e845a4b.MOV
+
 # Known issues (regarding dependencies):
 - **GithubTrendingAPI:**
 
@@ -39,3 +45,7 @@ The MarkdownView webView solution throws some warning on the console, but nothin
 ## Known issues (regarding GitHub API):
 On rare occasions, GitHub Repos READ.me download URL is not reliable from the GitHub API. Good chance you never notice that, but worth to mention.
 > api/repos/{owner}/{repo}/contents/{path} -> response "message": "Not Found"
+
+
+
+
