@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "githubtrendingapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/elkoiko/GithubTrendingAPI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8a76fd8aa64ba2d14e4d9a1ad095e7d6801b46dd"
+      }
+    },
+    {
+      "identity" : "markdownview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/borsosbe/MarkdownView",
+      "state" : {
+        "branch" : "bugfix/ios_16",
+        "revision" : "599f4df2f9fdb7e1e94f3cb910b638ad9a3e1070"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "11da8c685ddde2d519fad04a7daf8485bbbc773e",
+        "version" : "1.7.5"
+      }
+    }
+  ],
+  "version" : 2
+}

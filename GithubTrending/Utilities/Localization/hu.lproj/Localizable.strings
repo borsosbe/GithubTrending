@@ -1,0 +1,22 @@
+/*
+  Localizable.strings
+  GithubTrending
+
+  Created by Bence Borsos on 2022. 10. 10..
+  
+*/
+
+"launch_github_link" = "Go to Github";
+"launch_welcome" = "Technical Demo App";
+"launch_info" = "Github Trending";
+"launch_desc" = "SwiftUI - MVVM - Combine - Unit tests for ViewModels - UI test for the 3 main View - Test coverage is 84.5%";
+"launch_enter_button" = "Enter the app";
+"launch_pp" = "Privacy policy";
+"launch_terms" = "Terms of use";
+"launch_and" = "and";
+"launch_github_url" = "https://www.github.com";
+"launch_github_pp_url" = "https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement";
+"launch_github_terms_url" = "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service";
+"trending_repo_list_nav_title" = "Trending Repos";
+"repo_detail_nav_title" = "Repo Detail";
+
