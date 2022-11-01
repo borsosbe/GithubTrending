@@ -2,7 +2,7 @@
 
 The project’s idea is to list trending projects from Github, tap on one of them, and show their details.
 
-In case you would like to try it out, you should replace the token with your GitHub token in NetworkingManager line 21.
+In case you would like to try it out, you should replace the -template- token with your GitHub token in NetworkingManager line 21.
 
 # Solution
 - SwiftUI
